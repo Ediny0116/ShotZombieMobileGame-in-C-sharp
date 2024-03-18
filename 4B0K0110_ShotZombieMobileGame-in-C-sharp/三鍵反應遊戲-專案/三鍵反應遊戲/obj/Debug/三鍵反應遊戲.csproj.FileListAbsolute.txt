@@ -1,0 +1,10 @@
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\bin\Debug\三鍵反應遊戲.exe.config
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\bin\Debug\三鍵反應遊戲.exe
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\bin\Debug\三鍵反應遊戲.pdb
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\obj\Debug\三鍵反應遊戲.csproj.AssemblyReference.cache
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\obj\Debug\三鍵反應遊戲.Form1.resources
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\obj\Debug\三鍵反應遊戲.Properties.Resources.resources
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\obj\Debug\三鍵反應遊戲.csproj.GenerateResource.cache
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\obj\Debug\三鍵反應遊戲.csproj.CoreCompileInputs.cache
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\obj\Debug\三鍵反應遊戲.exe
+C:\Users\0x0000000000000007xc\Desktop\C#期中\三鍵反應遊戲\三鍵反應遊戲\obj\Debug\三鍵反應遊戲.pdb
